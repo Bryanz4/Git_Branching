@@ -1,4 +1,4 @@
-package locators;
+package pages;
 
 public class AmazonPage {
 
